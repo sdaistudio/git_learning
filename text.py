@@ -2,5 +2,7 @@
 
 print("Hello, World!")
 
-print("This is a simple Python script.")
 
+
+print("It demonstrates basic Python syntax and functionality.")
+print("You can run this script to see the output in the console.")
